@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Started exploring new research notes on this site.
+Started exploring new research notes on this site 👀
