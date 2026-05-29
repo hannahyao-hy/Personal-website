@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from Northwestern University.
+Graduated from Northwestern University 😺
