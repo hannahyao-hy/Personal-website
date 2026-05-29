@@ -13,7 +13,7 @@ profile:
     <p>J.P. Morgan</p>
     <p>Northwestern Alum</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:

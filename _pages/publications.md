@@ -2,22 +2,19 @@
 layout: page
 permalink: /research/
 title: Research
-description: research interests, notes, and selected technical work.
 nav: true
 nav_order: 2
 ---
 
+My research interests sit at the intersection of finance, machine learning, and decision-making. I am especially interested in practical AI systems for risk modeling, market analysis, communication, and research workflows.
+
 ## Interests
 
-This page collects research questions, technical notes, and selected work around finance, AI, and decision-making.
-
-- **AI for finance:** how machine learning can support risk modeling, market analysis, and capital allocation.
-- **Decision intelligence:** tools that make complex assumptions easier to inspect, communicate, and challenge.
-- **Research infrastructure:** practical systems for analysis, visualization, reproducibility, and idea development.
+- AI applications in finance and capital markets
+- machine learning methods for risk modeling and decision support
+- tools that make complex analytical work easier to explain and reproduce
 
 ## Publications And Preprints
-
-Add BibTeX entries to `_bibliography/papers.bib` as research notes, papers, or preprints become ready to share. Entries marked with `selected={true}` will also appear on the homepage.
 
 {% include bib_search.liquid %}
 

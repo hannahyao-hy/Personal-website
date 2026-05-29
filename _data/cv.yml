@@ -1,43 +1,45 @@
-cv:
-  name: Hannah Yao
-  label: Investment Banking at J.P. Morgan
-  email: ""
-  location: ""
-  image: ""
-  summary: Northwestern alum and AI enthusiast exploring where finance, machine learning, and curiosity meet.
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hannah Yao
+    - name: Professional Title
+      value: Investment Banking at J.P. Morgan
+    - name: Summary
+      value: Northwestern Alum and AI enthusiast exploring where finance, machine learning, and curiosity meet.
 
-  social_networks:
-    - network: GitHub
-      username: hannahyao-hy
+- title: Experience
+  type: time_table
+  contents:
+    - title: Investment Banking
+      institution: J.P. Morgan
+      year: 2025 - Present
+      description:
+        - Work at the intersection of capital markets, analysis, and client communication.
+        - Add specific coverage group, transaction experience, or responsibilities.
 
-  sections:
-    Education:
-      - institution: Add institution
-        location: ""
-        area: Add field or program
-        studyType: Add degree
-        start_date: ""
-        end_date: ""
-        highlights:
-          - Add advisor, thesis, honors, or coursework.
+- title: Education
+  type: time_table
+  contents:
+    - title: Northwestern University
+      institution: Northwestern University
+      year: 2024
+      description:
+        - Add degree, field, honors, or coursework.
 
-    Experience:
-      - company: J.P. Morgan
-        position: Investment Banking
-        location: ""
-        start_date: "2025"
-        end_date: present
-        summary: Work at the intersection of capital markets, analysis, and client communication.
-        highlights:
-          - Add specific coverage group, transaction experience, or responsibilities.
+- title: Projects
+  type: time_table
+  contents:
+    - title: AI And Finance Research
+      year: Current
+      description: Research notes and prototypes exploring how AI can support financial analysis, risk modeling, and decision-making.
 
-    Projects:
-      - name: AI and Finance Research
-        summary: Research notes and prototypes exploring how AI can support financial analysis, risk modeling, and decision-making.
-        highlights:
-          - Add links to papers, posts, notebooks, or demos.
-
-    Skills:
-      - name: Finance, Research, and Engineering
-        icon: fa-solid fa-code
-        keywords: "capital markets, machine learning, AI, risk modeling, financial analysis, visualization"
+- title: Skills
+  type: list
+  contents:
+    - Capital markets
+    - Machine learning
+    - AI
+    - Risk modeling
+    - Financial analysis
+    - Visualization
