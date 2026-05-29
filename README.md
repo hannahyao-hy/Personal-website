@@ -1,6 +1,6 @@
-# Hannah Yao Personal Website
+# Hannah (Han) Yao Personal Website
 
-This repository contains Hannah Yao's personal website, adapted from an al-folio-based GitHub Pages structure.
+This repository contains Hannah (Han) Yao's personal website, adapted from an al-folio-based GitHub Pages structure.
 
 The site is published with GitHub Pages at:
 

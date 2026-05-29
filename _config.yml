@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hannah
-middle_name:
+middle_name: (Han)
 last_name: Yao
 contact_note: >
   Investment Banking at J.P. Morgan. Northwestern Alum. AI enthusiast and researcher exploring where finance, machine learning, and curiosity meet.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website for Hannah Yao, featuring research, projects, writing, and notes at the intersection of finance,
+  Personal website for Hannah (Han) Yao, featuring research, projects, writing, and notes at the intersection of finance,
   machine learning, and curiosity.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
