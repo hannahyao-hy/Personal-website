@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+  <title id="title">Research tooling placeholder</title>
+  <desc id="desc">Abstract panels representing software tools and workflows.</desc>
+  <rect width="900" height="540" fill="#f6f3ec"/>
+  <rect x="110" y="110" width="270" height="240" rx="18" fill="#2f6f73"/>
+  <rect x="430" y="155" width="350" height="195" rx="18" fill="#202124"/>
+  <path d="M165 190h160M165 245h120M485 235h230M485 290h150" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="230" cy="410" r="34" fill="#d55c3f"/>
+  <circle cx="302" cy="410" r="34" fill="#f2b84b"/>
+  <text x="80" y="470" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#202124">tools</text>
+</svg>

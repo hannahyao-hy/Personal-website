@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+  <title id="title">Fun project placeholder</title>
+  <desc id="desc">Abstract colorful shapes for playful personal projects.</desc>
+  <rect width="900" height="540" fill="#f1f7f1"/>
+  <path d="M170 335c65-110 140-165 225-165s159 55 225 165" fill="none" stroke="#d55c3f" stroke-width="24" stroke-linecap="round"/>
+  <rect x="170" y="135" width="130" height="130" rx="24" fill="#f2b84b"/>
+  <circle cx="450" cy="235" r="78" fill="#2f6f73"/>
+  <path d="M640 145l105 185H535z" fill="#202124"/>
+  <text x="80" y="470" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#202124">fun</text>
+</svg>

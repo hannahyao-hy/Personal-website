@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder for Hannah Yao</title>
+  <desc id="desc">A clean abstract profile placeholder with the initials HY.</desc>
+  <rect width="480" height="480" rx="48" fill="#f5f1e8"/>
+  <circle cx="240" cy="184" r="78" fill="#2f6f73"/>
+  <path d="M112 394c22-78 69-118 128-118s106 40 128 118" fill="#d55c3f"/>
+  <text x="240" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#202124">HY</text>
+</svg>

@@ -1,0 +1,43 @@
+cv:
+  name: Hannah Yao
+  label: Investment Banking at J.P. Morgan
+  email: ""
+  location: ""
+  image: ""
+  summary: Northwestern alum and AI enthusiast exploring where finance, machine learning, and curiosity meet.
+
+  social_networks:
+    - network: GitHub
+      username: hannahyao-hy
+
+  sections:
+    Education:
+      - institution: Add institution
+        location: ""
+        area: Add field or program
+        studyType: Add degree
+        start_date: ""
+        end_date: ""
+        highlights:
+          - Add advisor, thesis, honors, or coursework.
+
+    Experience:
+      - company: J.P. Morgan
+        position: Investment Banking
+        location: ""
+        start_date: "2025"
+        end_date: present
+        summary: Work at the intersection of capital markets, analysis, and client communication.
+        highlights:
+          - Add specific coverage group, transaction experience, or responsibilities.
+
+    Projects:
+      - name: AI and Finance Research
+        summary: Research notes and prototypes exploring how AI can support financial analysis, risk modeling, and decision-making.
+        highlights:
+          - Add links to papers, posts, notebooks, or demos.
+
+    Skills:
+      - name: Finance, Research, and Engineering
+        icon: fa-solid fa-code
+        keywords: "capital markets, machine learning, AI, risk modeling, financial analysis, visualization"
