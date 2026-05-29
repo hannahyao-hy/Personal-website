@@ -7,8 +7,6 @@ tags: notes projects
 categories: writing
 ---
 
-This is the first note for the site.
+First note for the site!
 
-I want this website to collect research, projects, and occasional thoughts at the intersection of finance, machine learning, and building things from scratch.
-
-The blog is intentionally lightweight. It can hold polished essays, rough notes, research reflections, or small ideas that are useful to revisit later.
+“勇气，坚持，好奇，热烈“ 🩷
