@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm Hannah, a banker by day, builder and researcher by night. My work sits at the intersection of capital markets and emerging technology, and I'm especially drawn to building, understanding complex human behavior, and decision-making.
+I'm Hannah, a banker by day, builder and researcher by night🦉🧐. My work sits at the intersection of capital markets and emerging technology, and I'm especially drawn to building, understanding complex human behavior, and decision-making.
 
 Before J.P. Morgan, I studied Statistics, Economics and Data Science at Northwestern, where I picked up a love for rigorous analysis in finanial markets and the messy parts of building things from scratch. This site is where I keep my research, projects, and occasional notes.
 
