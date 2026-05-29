@@ -6,14 +6,14 @@
     - name: Professional Title
       value: Investment Banking at J.P. Morgan
     - name: Summary
-      value: Northwestern Alum and AI enthusiast exploring where finance, machine learning, and curiosity meet.
+      value: AI enthusiast exploring where finance, machine learning, and curiosity meet.
 
 - title: Experience
   type: time_table
   contents:
     - title: Investment Banking
       institution: J.P. Morgan
-      year: 2025 - Present
+      year: 2024 - Present
       description:
         - Work at the intersection of capital markets, analysis, and client communication.
         - Add specific coverage group, transaction experience, or responsibilities.
@@ -25,7 +25,8 @@
       institution: Northwestern University
       year: 2024
       description:
-        - Add degree, field, honors, or coursework.
+        - Statistics， Economics， Data Science， Finance
+        - The place where I spent wonderful 4 years and met amazing people - thank you for all my professors， friends， peers
 
 - title: Projects
   type: time_table
