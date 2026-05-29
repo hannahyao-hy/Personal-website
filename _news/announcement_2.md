@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Joined J.P. Morgan in Investment Banking.
+Joined J.P. Morgan in Investment Banking
