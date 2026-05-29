@@ -6,7 +6,7 @@ subtitle: Investment Banking at J.P. Morgan. Northwestern alum. AI enthusiast an
 
 profile:
   align: right
-  image: profile-placeholder.svg
+  image: profile-pic.png
   image_circular: true
   more_info: >
     <p>Investment Banking, J.P. Morgan</p>
