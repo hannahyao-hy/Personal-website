@@ -7,7 +7,7 @@ first_name: Hannah
 middle_name:
 last_name: Yao
 contact_note: >
-  Investment Banking at J.P. Morgan. Northwestern alum. AI enthusiast and researcher exploring where finance, machine learning, and curiosity meet.
+  Investment Banking at J.P. Morgan. Northwestern Alum. AI enthusiast and researcher exploring where finance, machine learning, and curiosity meet.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website for Hannah Yao, featuring research, projects, writing, and notes at the intersection of finance, machine learning, and curiosity.
 footer_text: >
@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: thoughts # blog_name will be displayed in your blog page
+blog_name: Thoughts # blog_name will be displayed in your blog page
 blog_description: notes on finance, AI, research, building, and things worth remembering
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

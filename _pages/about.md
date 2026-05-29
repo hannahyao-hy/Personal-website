@@ -1,16 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Investment Banking at J.P. Morgan. Northwestern alum. AI enthusiast and researcher exploring where finance, machine learning, and curiosity meet.
+subtitle: Investment Banking at J.P. Morgan. Northwestern Alum. AI enthusiast and researcher exploring where finance, machine learning, and curiosity meet.
 
 profile:
   align: right
   image: profile-pic.png
   image_circular: true
   more_info: >
-    <p>Investment Banking, J.P. Morgan</p>
-    <p>Northwestern University alum</p>
+    <p>Investment Banking</p>
+    <p>J.P. Morgan</p>
+    <p>Northwestern Alum</p>
 
 selected_papers: true
 social: true

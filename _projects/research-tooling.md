@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis and Modeling Tools
+title: Analysis And Modeling Tools
 description: A place for dashboards, notebooks, visualization tools, and modeling workflows.
 img: assets/img/project-tools.svg
 importance: 2

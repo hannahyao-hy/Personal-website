@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting this site
+title: Starting This Site
 date: 2026-05-29
 description: Why this site exists and what I plan to collect here.
 tags: notes projects

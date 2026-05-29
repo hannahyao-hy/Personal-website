@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI and Finance Research
+title: AI And Finance Research
 description: Research notes and prototypes at the intersection of finance, machine learning, and decision-making.
 img: assets/img/project-research.svg
 importance: 1

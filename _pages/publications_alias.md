@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 nav: false
 description: publication list and research links.

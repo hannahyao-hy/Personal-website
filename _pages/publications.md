@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: research interests, notes, and selected technical work.
 nav: true
 nav_order: 2
 ---
 
-## interests
+## Interests
 
 This page collects research questions, technical notes, and selected work around finance, AI, and decision-making.
 
@@ -15,7 +15,7 @@ This page collects research questions, technical notes, and selected work around
 - **Decision intelligence:** tools that make complex assumptions easier to inspect, communicate, and challenge.
 - **Research infrastructure:** practical systems for analysis, visualization, reproducibility, and idea development.
 
-## publications and preprints
+## Publications And Preprints
 
 Add BibTeX entries to `_bibliography/papers.bib` as research notes, papers, or preprints become ready to share. Entries marked with `selected={true}` will also appear on the homepage.
 
