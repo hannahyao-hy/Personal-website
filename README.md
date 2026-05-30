@@ -4,4 +4,4 @@ This repository contains Hannah (Han) Yao's personal website, adapted from an al
 
 The site is published with GitHub Pages at:
 
-https://hannahyao-hy.github.io/Hannahyao-website/
+https://hannahyao-hy.github.io
